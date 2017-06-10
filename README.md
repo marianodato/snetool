@@ -1,5 +1,5 @@
 # snetool
-A simple console networking tool written in C.
+A simple networking console tool written in C.
 
 ## Description
 snetool provides basic functionality such as:
