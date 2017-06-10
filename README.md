@@ -3,9 +3,9 @@ A simple console networking tool written in C.
 
 ## Description
 snetool provides basic functionality such as:
-  - Letting you know your local ip
-  - Pinging to hosts in the same network (need to run with admin privileges)
-  - Scanning hosts searching for open ports
+  - Letting you know your local ip.
+  - Pinging to hosts in the same network (need to run with admin privileges).
+  - Scanning hosts searching for open ports.
 
 ## Build and Run Instructions
 
