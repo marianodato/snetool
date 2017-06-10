@@ -7,4 +7,4 @@ A simple console networking tool written in C.
 2. Clone repository: `git clone https://github.com/marianodato/snetool.git`
 3. Change to project directory: `cd snetool`
 4. Run makefile: `make`
-5. Run the game: `./snetool`
+5. Run usage information: `./snetool -h`
