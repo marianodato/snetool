@@ -2,10 +2,10 @@
 A simple networking console tool written in C.
 
 ## Description
-snetool provides basic functionality such as:
-  - Letting you know your local ip.
-  - Pinging to hosts in the same network (need to run with admin privileges).
-  - Scanning hosts searching for open ports.
+snettol is a program that provides the following functionalities:
+  - It allows to know the local ip of the machine in which it is running within a network.
+  - Allows you to detect if a host within the same network is active or inactive.
+  - Allows you to scan a range of ports on a host and detect which ports are open and closed.
 
 ## Build and Run Instructions
 1. Open a terminal.
