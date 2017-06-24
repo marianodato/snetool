@@ -1,5 +1,5 @@
 /*!
-*   Copyright (c) 2010, 2016 Mariano Dato <marianodato@gmail.com>
+*   Copyright (c) 2017 Mariano Dato <marianodato@gmail.com>
 *   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 *   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 *   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
